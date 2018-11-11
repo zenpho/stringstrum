@@ -1,0 +1,70 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+}
+
+#unmute-button {
+  top: 0;
+  left: 0;
+}
+
+#log {
+  width: 100%;
+  height: 30%;
+  overflow: auto;
+  border: 1px solid lightgrey;
+}
+
+#controls {
+  width: 100%;
+  height: 30%;
+  border: 1px solid lightgrey;
+}
+
+#controls canvas[nx="string"] {
+  width: 100%;
+  height: 100%;
+}
+
+/*
+#controls {
+  width: 100%;
+  height: 30%;
+  border: 1px solid lightgrey;
+
+  position: relative; 
+}
+
+#chords {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 2;
+}
+
+#strings {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 1;
+}
+
+#chords span {
+  display: inline-block;
+  width: 49%;
+  height: 100%;
+
+  background-color: lightblue;
+  opacity: 0.2;
+}
+
+#strings canvas[nx="string"] {
+  width: 100%;
+  height: 100%;
+}
+*/

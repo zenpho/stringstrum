@@ -1,2 +1,0 @@
-# stringstrum
-Created with CodeSandbox
